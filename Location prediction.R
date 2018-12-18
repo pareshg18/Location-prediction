@@ -1,5 +1,4 @@
 #PARESH GUPTA
-#FINAL PROJECT_CIS787_ANALYTICAL_DATA_MINING
 
 install.packages("xlsx")
 install.packages("rworldmap")
